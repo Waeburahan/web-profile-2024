@@ -8,9 +8,10 @@ const Goals = (props: Props) => {
     <Card title="Goals">
       <div>
         <ul className="list-inside list-disc">
+          <li>fullstack developer</li>
+          <li>working abroad</li>
+          <li>Learn a new coding skill every day</li>
           <li>Travel around the world</li>
-          <li>Learn a new coding skill</li>
-          <li>Read 50 books</li>
           <li>Improve communication skills</li>
         </ul>
       </div>

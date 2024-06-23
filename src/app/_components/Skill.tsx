@@ -1,5 +1,7 @@
 import {
+  faCss3,
   faDocker,
+  faHtml5,
   faJava,
   faJs,
   faPhp,
@@ -25,10 +27,7 @@ const Skill = (props: Props) => {
           <FontAwesomeIcon icon={faPython} className="h-10" />
           <p>Python</p>
         </div>
-        <div className="text-center">
-          <FontAwesomeIcon icon={faRust} className="h-10" />
-          <p>Rust</p>
-        </div>
+        
         <div className="text-center">
           <FontAwesomeIcon icon={faReact} className="h-10" />
           <p>React</p>
@@ -42,12 +41,12 @@ const Skill = (props: Props) => {
           <p>JS</p>
         </div>
         <div className="text-center">
-          <FontAwesomeIcon icon={faDocker} className="h-10" />
-          <p>Docker</p>
+          <FontAwesomeIcon icon={faHtml5} className="h-10" />
+          <p>HTML</p>
         </div>
         <div className="text-center">
-          <FontAwesomeIcon icon={faVuejs} className="h-10" />
-          <p>Vue.js</p>
+          <FontAwesomeIcon icon={faCss3} className="h-10" />
+          <p>CSS</p>
         </div>
       </div>
     </Card>

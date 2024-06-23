@@ -12,7 +12,7 @@ export default function blog2() {
         </div>
         <header className="flex justify-between items-center mb-8">
           <h1 className="text-3xl font-bold text-gray-800">
-            The Art of Simplicity: Python’s Syntactic Sugar?
+          Why do smart people want to fail?
           </h1>
         </header>
         <div className="my-10">
@@ -23,17 +23,16 @@ export default function blog2() {
             height="394"
             loading="eager"
             role="presentation"
-            src="https://miro.medium.com/v2/resize:fit:1400/1*G-09XWU9P6bPCgSCu2wQKg.png"
+            src="http://www.positioningmag.com/sites/default/files/styles/larger/public/media-image/pos/2015/03/5_word.png?itok=e-HC8TkD"
           />
         </div>
         <div>
           <blockquote className="border-l-4 pl-4 my-4">
             <p className="text-lg font-medium leading-relaxed">
-              Good code, It should work and It should keep working.
+            การเรียนรู้จากความล้มเหลว
             </p>
             <cite className="text-sm font-light block mt-2">
-              การที่ Code ณ ขณะนั้น “ทำงานได้” เป็นเรื่องสำคัญเรื่องนึง
-              และการที่มันทำหน้าที่ของมันได้อย่างสง่างามก็เป็นเรื่องสำคัญอีกเรื่องเช่นกัน
+            ความล้มเหลวเป็นบทเรียนที่มีค่า แม้จะเป็นสิ่งที่ไม่มีใครปรารถนา แต่ความล้มเหลวช่วยให้เราได้เรียนรู้จากความผิดพลาด ปรับปรุงและพัฒนาตนเอง คนที่เคยล้มเหลวมักมีความอดทนและความยืดหยุ่นมากกว่า และมักจะมีความเข้าใจที่ลึกซึ้งเกี่ยวกับสิ่งที่จำเป็นในการประสบความสำเร็จในระยะยาว
             </cite>
           </blockquote>
         </div>
